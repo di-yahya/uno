@@ -20,6 +20,11 @@ class Player {
 
 }
 
+class SpecialCard {
+    constructor(type){
+        this.type = type
+    }
+}
 class Uno {
     constructor() {
         this.deck = [];
