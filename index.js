@@ -20,3 +20,9 @@ class Player {
 
 }
 
+class Uno {
+    constructor() {
+        this.deck = [];
+    }
+}
+
