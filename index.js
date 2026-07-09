@@ -25,3 +25,9 @@ class SpecialCard {
         this.type = type
     }
 }
+class Uno {
+    constructor() {
+        this.deck = [];
+    }
+}
+
