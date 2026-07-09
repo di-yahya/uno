@@ -14,8 +14,3 @@ class Player {
 
 }
 
-const player1 = new Player("Yahya");
-
-
-console.log(player1)
-console.log(player1.has_won())
