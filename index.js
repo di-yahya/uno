@@ -20,3 +20,8 @@ class Player {
 
 }
 
+class SpecialCard {
+    constructor(type){
+        this.type = type
+    }
+}
